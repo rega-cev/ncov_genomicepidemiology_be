@@ -380,7 +380,7 @@
     ],
     "maintainers": [
       {
-        "name": "the Nextstrain team",
+        "name": "Kristof Theys",
         "url": "https://nextstrain.org/"
       }
     ],
@@ -389,7 +389,7 @@
       "map",
       "entropy"
     ],
-    "title": "Genomic epidemiology of novel coronavirus",
+    "title": "Coronavirus in Belgie",
     "updated": "2020-04-02"
   },
   "tree": {
